@@ -5,6 +5,10 @@
     background-color: #1b1b1b;
 }
 
+.navbar a {
+    text-decoration: none;
+}
+
 .navbar-logo {
     justify-self: start;
     margin-left: 20px;

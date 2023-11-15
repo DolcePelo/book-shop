@@ -7,7 +7,7 @@
     font-size: 1.3rem;
 }
 
-.cartContent > img {
+.cartContent>img {
     height: 120px;
     width: 100px;
     text-align: center;
@@ -26,3 +26,31 @@
     font-size: 2.3rem;
 }
 
+.delete-btn {
+    color: #1bcb7f;
+    font-size: 2.5rem;
+    cursor: pointer;
+}
+
+.name {
+    width: 15rem;
+}
+
+.counter-button {
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 2rem;
+    outline: none;
+}
+
+.cart-items-total {
+    background-color: red;
+    color: white;
+    border-radius: 50%;
+    font-size: 15px;
+    font-weight: bold;
+    padding: 4px;
+    top: 47px;
+    right: 14px;
+    position: absolute;
+}
