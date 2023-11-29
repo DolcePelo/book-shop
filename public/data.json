@@ -30,5 +30,165 @@
         "price": 18,
         "img": "https://imgs.search.brave.com/2BQJM3-hpSoPWzpOs2Jt1b1ZmtU1IWNZLYRRRiQGG9Q/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9pLmdy/LWFzc2V0cy5jb20v/aW1hZ2VzL1MvY29t/cHJlc3NlZC5waG90/by5nb29kcmVhZHMu/Y29tL2Jvb2tzLzE0/ODU1NzM4MzRpLzM0/MDM0MjAxLl9VWTIw/MF8uanBn",
         "quanty": 1
+    },
+    {
+        "id": 5,
+        "name": "Fattore 1%",
+        "author": "Luca Mazzucchelli",
+        "price": 11,
+        "img": "https://www.ibs.it/images/9788809943742_0_536_0_75.jpg",
+        "quanty": 1
+    },
+    {
+        "id": 6,
+        "name": "Rich Dad Poor Dad",
+        "author": "Robert Kiyosaki",
+        "price": 13,
+        "img": "https://m.media-amazon.com/images/I/81bsw6fnUiL._AC_UF1000,1000_QL80_.jpg",
+        "quanty": 1
+    },
+    {
+        "id": 7,
+        "name": "Midas Touch",
+        "author": "Donald Trump and Robert Kiyosaki",
+        "price": 9.99,
+        "img": "https://images.cdn3.buscalibre.com/fit-in/360x360/c0/98/c0983b661d63c0d536a8dee16ea4431c.jpg",
+        "quanty": 1
+    },
+    {
+        "id": 8,
+        "name": "Atomic Habits",
+        "author": "James Clear",
+        "price": 11.50,
+        "img": "https://m.media-amazon.com/images/I/812eE1lO0dL._AC_UF1000,1000_QL80_.jpg",
+        "quanty": 1
+    },
+    {
+        "id": 9,
+        "name": "Drunk On Love",
+        "author": "Jasmine Guillory",
+        "price": 12,
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1649027576l/60621070.jpg",
+        "quanty": 1
+    },
+    {
+        "id": 10,
+        "name": "Royal Holiday",
+        "author": "Jasmine Guillory",
+        "price": 11,
+        "img": "https://images.squarespace-cdn.com/content/v1/58dadfe48419c2744ae836aa/1607399130165-M51PYGYEZRSL37C1BH2G/Royal-Holiday.jpg",
+        "quanty": 1
+    },
+    {
+        "id": 11,
+        "name": "Before I Let Go",
+        "author": "Kennedy Ryan",
+        "price": 12.99,
+        "img": "https://m.media-amazon.com/images/I/91JwuZqSneL._AC_UF1000,1000_QL80_.jpg",
+        "quanty": 1
+    },
+    {
+        "id": 12,
+        "name": "A Perfect Vintage",
+        "author": "Chelsea Fagan",
+        "price": 14,
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1678985766l/123255927.jpg",
+        "quanty": 1
+    },
+    {
+        "id": 13,
+        "name": "Holly",
+        "author": "Stephen King",
+        "price": 19,
+        "img": "https://m.media-amazon.com/images/I/815oQ6G6HDL._AC_UF1000,1000_QL80_.jpg",
+        "quanty": 1
+    },
+    {
+        "id": 14,
+        "name": "Vampire Of El Norte",
+        "author": "Isabel Cañas",
+        "price": 20,
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1669783077l/63892214.jpg",
+        "quanty": 1
+    },
+    {
+        "id": 15,
+        "name": "Bad Cree",
+        "author": "Jessica Johns",
+        "price": 12.99,
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1650914565l/60839741.jpg",
+        "quanty": 1
+    },
+    {
+        "id": 16,
+        "name": "The Ghost Slayers",
+        "author": "Mike Ashley",
+        "price": 14.50,
+        "img": "https://m.media-amazon.com/images/I/916M1X81dBL._AC_UF1000,1000_QL80_.jpg",
+        "quanty": 1
+    },
+    {
+        "id": 17,
+        "name": "Godkiller",
+        "author": "Hannah Kaner",
+        "price": 17,
+        "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1659863757i/61244268.jpg",
+        "quanty": 1
+    },
+    {
+        "id": 18,
+        "name": "A Court Of Thorns And Roses",
+        "author": "Sarah J. Maas",
+        "price": 18,
+        "img": "https://m.media-amazon.com/images/I/81RrEEMiOCL._AC_UF1000,1000_QL80_.jpg",
+        "quanty": 1
+    },
+    {
+        "id": 19,
+        "name": "Iron Flame",
+        "author": "Rebecca Yarros",
+        "price": 22,
+        "img": "https://m.media-amazon.com/images/I/61CrGbiVSnL.jpg",
+        "quanty": 1
+    },
+    {
+        "id": 20,
+        "name": "Fourth Wing",
+        "author": "Rebecca Yarros",
+        "price": 23,
+        "img": "https://m.media-amazon.com/images/I/61D7uTS7-TL.jpg",
+        "quanty": 1
+    },
+    {
+        "id": 21,
+        "name": "She Loves To Eat 1",
+        "author": "Sakaoma  Yuzaki",
+        "price": 9.99,
+        "img": "https://m.media-amazon.com/images/I/81VLBxiFwbL._AC_UF1000,1000_QL80_.jpg",
+        "quanty": 2
+    },
+    {
+        "id": 22,
+        "name": "She Loves To Eat 2",
+        "author": "Sakaoma  Yuzaki",
+        "price": 9.99,
+        "img": "https://m.media-amazon.com/images/I/811uV3V2DbL._AC_UF894,1000_QL80_.jpg",
+        "quanty": 1
+    }, 
+    {
+        "id": 23,
+        "name": "Moon USA National Parks: 63 Parks",
+        "author": "Becky Lomax",
+        "price": 8,
+        "img": "https://m.media-amazon.com/images/I/9176UXE1RRL._AC_UF1000,1000_QL80_.jpg",
+        "quanty": 1
+    },
+    {
+        "id": 24,
+        "name": "Moon Canada Rockies",
+        "author": "Andrew Hempstead",
+        "price": 8,
+        "img": "https://m.media-amazon.com/images/I/81PSTiBRE6L._AC_UF1000,1000_QL80_.jpg",
+        "quanty": 1
     }
 ]
