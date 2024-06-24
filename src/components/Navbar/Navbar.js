@@ -1,6 +1,7 @@
 import { useContext } from "react";
 import { dataContext } from "../Context/DataContext";
 import { Link } from 'react-router-dom';
+import Dropdown from "../Dropdown/Dropdown";
 
 import TotalItems from '../CartContent/TotalItems';
 import './Navbar.css';
@@ -14,6 +15,9 @@ function Navbar() {
         <Link to={"/"}>
           <h1 className="navbar-logo">Shop.</h1>
         </Link>
+        <div>
+          <Dropdown />
+        </div>
         <Link className='seeCarrito' to={'/cart'}>
           🛒
           {cart.length > 0 ? <TotalItems /> : null}
